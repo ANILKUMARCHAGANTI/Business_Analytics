@@ -8,6 +8,14 @@
 ---
 
 ## 🔎 Project Summary
+Team Details:
+Ch.DInesh          BL.EN.U4CSE22213
+G.Krishna Koushik  BL.EN.U4CSE22023
+P.Jaya Chetan      BL.EN.U4CSE22044
+Ch.Anil Kumar      BL.EN.U4CSE22213
+Project Mentor:
+Dr. Sajitha Krishnan
+Assistant Professor, Department of Computer Science and Engineeirng, School of Computing, Bangalore
 
 This repository presents a complete **end-to-end business analytics framework** for e-commerce retail data. The project integrates data preprocessing, exploratory analysis, customer segmentation, churn prediction, Customer Lifetime Value (CLV) estimation, time-series sales forecasting, and interactive dashboards through **Streamlit** and **Power BI**.
 
@@ -51,7 +59,8 @@ Business_Analytics/
 │   ├── presentation.pptx
 │   └── ...
 ├── requirements.txt
-└── README.md
+└── README.md\
+---
 ## 🗂 **Clone the Repository**
 git clone https://github.com/ANILKUMARCHAGANTI/Business_Analytics.git
 cd Business_Analytics
@@ -64,7 +73,7 @@ source .venv/bin/activate
 **Install Dependencies**
 pip install -r requirements.txt
 
-
+---
 ## 📊 **Model Performance Summary**
 | Model               | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 |---------------------|----------|-----------|--------|----------|---------|
@@ -72,14 +81,14 @@ pip install -r requirements.txt
 | Random Forest       | 0.8974   | 1.0000    | 0.8814 | 0.9370   | 0.9639  |
 | Decision Tree       | 0.7322   | 0.9867    | 0.6998 | 0.8188   | 0.8942  |
 | XGBoost             | 0.9355   | 1.0000    | 0.9254 | 0.9612   | 0.9640  |
-
+---
 **Key Observations:**
 - **XGBoost** delivered the best overall performance (highest F1 and AUC).  
 - **Logistic Regression** also performed extremely well and offers high interpretability.  
 - **Random Forest** showed excellent precision but slightly lower recall.  
 - **Decision Tree** had the weakest performance due to overfitting.
 
-
+---
 **Dashboard features include**:
 Customer segments (RFM + Clusters)
 Churn probability insights

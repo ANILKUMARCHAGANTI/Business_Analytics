@@ -25,8 +25,10 @@ The pipeline supports data-driven decisions for improving retention, maximizing 
 - `report/` — PPT/PDF project report
 - `requirements.txt` — Python package dependencies
 
-Notebook link:  
-https://github.com/ANILKUMARCHAGANTI/Business_Analytics/blob/main/BA_NEW_vs.ipynb
+Dataset link:  
+https://huggingface.co/datasets/electricsheepafrica/nigerian_retail_and_ecommerce_purchase_history_records
+
+
 
 ---
 
@@ -63,7 +65,6 @@ source .venv/bin/activate
 **Install Dependencies**
 pip install -r requirements.txt
 
-Dataset Link: -`https://huggingface.co/datasets/electricsheepafrica/nigerian_retail_and_ecommerce_purchase_history_records`
 
 ## 📊 **Model Performance Summary**
 | Model               | Accuracy | Precision | Recall | F1-Score | ROC-AUC |

@@ -31,10 +31,6 @@ https://huggingface.co/datasets/electricsheepafrica/nigerian_retail_and_ecommerc
 
 
 ---
-![Clusters](images/cluster_pca_projection.png)
-![Forecast](images/sales_forecast_clean.png)
-![Dashboard Overview](images/dashboard_overview.png)
-
 ## 🗂 Repository Details
 
 ```plaintext

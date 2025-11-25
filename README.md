@@ -4,7 +4,6 @@
 [![Status](https://img.shields.io/badge/status-complete-brightgreen.svg)]()
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)]()
 [![Streamlit](https://img.shields.io/badge/streamlit-app-orange.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
 
 ---
 

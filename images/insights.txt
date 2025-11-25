@@ -1,0 +1,17 @@
+KPI Summary generated from notebook outputs in images/
+- total_customers: 603488
+- total_revenue: 751174994275.4
+- avg_order_value: 769465.18
+- average_clv: 324045.17
+- top_5_clv_customers: CUST875474;CUST298170;CUST339118;CUST995606;CUST508928
+- churn_rate: 0.8647
+- forecast_sum_preview: 12707379444.61
+
+Top 5 customers by Monetary value:
+  - CUST113187: 10817880.02
+  - CUST344915: 10295682.41
+  - CUST298170: 9964560.03
+  - CUST936987: 9555188.27
+  - CUST687724: 9500101.51
+
+Cluster 1 contributes the highest monetary value — consider prioritizing retention or personalized offers for this segment.

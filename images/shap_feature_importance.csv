@@ -1,0 +1,14 @@
+feature,shap_mean_abs
+Recency,0.0013407450924430543
+Frequency,0.00134074500433966
+Monetary,0.0
+r_score,0.0
+f_score,0.0
+m_score,0.0
+RFM_Score,0.0
+RFM_Segment,0.0
+cluster,0.0
+R_recency_scaled,0.0
+R_freq_scaled,0.0
+R_monetary_scaled,0.0
+ChurnFlag,0.0

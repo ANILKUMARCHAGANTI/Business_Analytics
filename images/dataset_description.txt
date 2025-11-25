@@ -1,0 +1,8 @@
+
+Dataset Description:
+- Rows: 1000000, Columns: 16
+- Time span: 2023-01-01 00:00:00 to 2024-12-01 00:00:00
+- Unique customers: 603488
+- Unique products: 10
+Key preprocessing done: converted date fields, created TotalAmount, removed invalid rows (negative quantity/price), handled missing CustomerID where necessary.
+Saved main EDA figures in /images/ folder for insertion into the report.

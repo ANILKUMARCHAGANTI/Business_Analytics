@@ -1,0 +1,8 @@
+metric,value
+total_customers,603488
+total_revenue,751174994275.4
+avg_order_value,769465.18
+average_clv,324045.17
+top_5_clv_customers,CUST875474;CUST298170;CUST339118;CUST995606;CUST508928
+churn_rate,0.8647
+forecast_sum_preview,12707379444.61

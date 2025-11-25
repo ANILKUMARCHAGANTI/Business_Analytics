@@ -9,13 +9,13 @@
 
 ## 🔎 Project Summary
 Team Details:
--Ch.DInesh          BL.EN.U4CSE22213
--G.Krishna Koushik  BL.EN.U4CSE22023
+- Ch.DInesh          BL.EN.U4CSE22213
+- G.Krishna Koushik  BL.EN.U4CSE22023
 - P.Jaya Chetan      BL.EN.U4CSE22044
-Ch.Anil Kumar      BL.EN.U4CSE22213
+- Ch.Anil Kumar      BL.EN.U4CSE22213
 Project Mentor:
-Dr. Sajitha Krishnan
-Assistant Professor, Department of Computer Science and Engineeirng, School of Computing, Bangalore
+- Dr. Sajitha Krishnan
+- Assistant Professor, Department of Computer Science and Engineeirng, School of Computing, Bangalore
 
 This repository presents a complete **end-to-end business analytics framework** for e-commerce retail data. The project integrates data preprocessing, exploratory analysis, customer segmentation, churn prediction, Customer Lifetime Value (CLV) estimation, time-series sales forecasting, and interactive dashboards through **Streamlit** and **Power BI**.
 

@@ -33,8 +33,6 @@ Key deliverables:
 
 > Notebook path examples (in repo):  
 > - `https://github.com/ANILKUMARCHAGANTI/Business_Analytics/blob/main/BA_NEW_vs.ipynb`  
-> - `https://github.com/ANILKUMARCHAGANTI/Business_Analytics/blob/main/BA_NEW%20(2).ipynb`  
-> - Streamlit app: `https://github.com/ANILKUMARCHAGANTI/Business_Analytics/blob/main/app.py`
 
 ---
 

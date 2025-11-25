@@ -9,7 +9,7 @@
 
 ## 🔎 Project Summary
 Team Details:
-- Ch.DInesh          BL.EN.U4CSE22213
+- Ch.Dinesh          BL.EN.U4CSE22213
 - G.Krishna Koushik  BL.EN.U4CSE22023
 - P.Jaya Chetan      BL.EN.U4CSE22044
 - Ch.Anil Kumar      BL.EN.U4CSE22213
